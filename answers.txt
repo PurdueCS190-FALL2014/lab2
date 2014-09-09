@@ -2,7 +2,7 @@
 
 # CS190 Lab2 Answer Sheet
 
-# NOTE: Ignore the line directory below any "# ignore" statement.
+# NOTE: Ignore the line directly below any "# ignore" statement.
 
 # ignore
 cd; curl -sL https://raw.githubusercontent.com/PurdueCS190/lab2/master/lab2init | /bin/bash
