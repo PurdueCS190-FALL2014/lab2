@@ -174,6 +174,19 @@ Now look at the entire folder structure of your `~/cs190lab2` folder by running 
 
 ## More Extra Fun ##
 View the [source](https://github.com/PurdueCS190/lab2/blob/master/lab2init) of the Magic script. You know almost everything that is going on in this script!
+
+## Quiz 2 (optional) ##
+
+If you want to get a head start on Quiz 2 do it during lab!
+** Due Sunday, September 20 at 11:59p **
+
+1. Go to [Blackboard](https://mycourses.purdue.edu).
+
+2. Login with your career account.
+
+3. Go to Fall-2014-CS-19000-TLE under "My Courses."
+
+4. Click Quizzes, Quiz 2 - Basic Terminal Commands, Begin.
 <br>
 
 ----
