@@ -1,21 +1,20 @@
 #/bin/bash
 
-# CS190 Lab1 Answer Sheet
+# CS190 Lab2 Answer Sheet
 
 # NOTE: Ignore the line directory below any "# ignore" statement.
 
 # ignore
-cd; curl -sL http://cs.purdue.edu/homes/hoffmant/lab1/lab1init | /bin/bash
-
+cd; curl -sL https://raw.githubusercontent.com/PurdueCS190/lab2/master/lab2init | /bin/bash
 
 # ignore
-cd ~/cs190lab1 
+cd ~/cs190lab2
 
 
 # ==========================
 # Directions
 # ==========================
-# Follow the format below to answer each numbered task. 
+# Follow the format below to answer each numbered task.
 #
 # -----------------
 # Task 0 Answer
@@ -32,7 +31,7 @@ ls cat
 
 
 # ignore
-cd ~/cs190lab1 
+cd ~/cs190lab2
 
 
 # -----------------
@@ -52,7 +51,7 @@ cd ~/cs190lab1
 
 
 # ignore
-cd ~/cs190lab1/dog
+cd ~/cs190lab2/dog
 
 
 # -----------------
@@ -62,7 +61,7 @@ cd ~/cs190lab1/dog
 
 
 # ignore
-cd ~/cs190lab1/fox/sounds
+cd ~/cs190lab2/fox/sounds
 
 
 # -----------------
@@ -72,7 +71,7 @@ cd ~/cs190lab1/fox/sounds
 
 
 # ignore
-cd ~/cs190lab1/cat/sounds
+cd ~/cs190lab2/cat/sounds
 
 
 # -----------------
