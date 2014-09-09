@@ -4,18 +4,6 @@ The purpose of this lab is to teach the basics of using the Terminal. After you 
 
 Before starting the lab, please navigate to the [Lecture 1 Cheat Sheet](https://github.com/purduecs190/syllabus/blob/master/lecture01-basic-terminal-commands.md) to review all the common commands.
 
-## Setup ##
-
-In most labs in this class, you will be required to either remote SSH into your CS account or use the a physical Linux lab machine. Either will work.
-
-### Using a Windows lab computer or a personal computer ###
-You must SSH into a Linux lab machine. For instructions on how to do this, go to the [Course Website](http://courses.cs.purdue.edu/cs19000:fall13:start) and click the appropriate link in the sidebar.
-
-
-### Using a Linux lab computer ###
-Open a terminal. Located in the top tool bar under **Applications/Accessories/Terminal**
-
-
 ## The Lab ##
 
 Throughout this lab we will give you specific environment parameters and you will have to give the appropriate command to fulfill the action we ask of you. All answers should only contain one primary command (mv, cp, rm, etc.). We will ask you to complete tasks based on a fresh `~/cs190lab2` folder, so it may be wise to be run the "Magic Command" before working on each task.
