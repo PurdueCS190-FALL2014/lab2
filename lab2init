@@ -11,6 +11,7 @@ mkdir -p ~/cs190lab2/human/famous\ humans ~/cs190lab2/human/sounds
 
 touch ~/cs190lab2/cat/famous\ cats/{Garfield,"Grumpy Cat",Tom}
 touch ~/cs190lab2/cat/sounds/{cat_hiss,dog_bark,dog_howl,dog_woof}
+touch ~/cs190lab2/cat/{cat_meow,cat_purr}
 
 touch ~/cs190lab2/dog/famous\ cows/{"Air Bud",Blue,Clifford}
 
